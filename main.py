@@ -5,7 +5,7 @@ from win10toast import ToastNotifier
 
 # --- Configuration ---
 # Replace "YOUR_GEMINI_API_KEY" with your actual Gemini API key.
-GEMINI_API_KEY = "AIzaSyASdFVw43MezTSSp5ARi1W-lWTjSgnNAdI"
+GEMINI_API_KEY = "    "
 
 # The question you want to ask about the screenshot.
 PROMPT = "What is the correct answer in this image?"
